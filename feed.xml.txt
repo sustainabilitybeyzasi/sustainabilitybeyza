@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>Sürdürülebilirlik Blogu</title>
+    <link>https://kullaniciadiniz.github.io/</link>
+    <description>Sürdürülebilirlik, iklim, döngüsel ekonomi ve ESG üzerine pratik içerikler.</description>
+    <item>
+      <title>Sürdürülebilirlik Nedir? Başlangıç Rehberi</title>
+      <link>https://kullaniciadiniz.github.io/posts/surdurulebilirlik-nedir-baslangic-rehberi.html</link>
+      <pubDate>Wed, 27 Aug 2025 12:00:00 +0300</pubDate>
+      <description>Sürdürülebilirlik kavramını sade bir dille anlatan başlangıç rehberi.</description>
+    </item>
+    <item>
+      <title>ESG Raporlama İçin Pratik Kılavuz</title>
+      <link>https://kullaniciadiniz.github.io/posts/esg-raporlama-icin-pratik-kilavuz.html</link>
+      <pubDate>Wed, 27 Aug 2025 12:00:00 +0300</pubDate>
+      <description>GRI/ESRS mantığını hızlıca kavramak için pratik adımlar.</description>
+    </item>
+  </channel>
+</rss>

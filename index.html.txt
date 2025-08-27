@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="tr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Sürdürülebilirlik Blogu</title>
+  <meta name="description" content="Sürdürülebilirlik, iklim, döngüsel ekonomi ve ESG üzerine pratik içerikler.">
+  <link rel="stylesheet" href="/assets/styles.css">
+</head>
+<body>
+<div class="container">
+<header class="header">
+  <div class="brand"><a href="/">Sürdürülebilirlik Blogu</a></div>
+  <nav class="nav">
+    <a href="/">Blog</a>
+    <a href="/about.html">Hakkımda</a>
+    <button id="themeToggle" class="theme-toggle">🌓 Tema</button>
+  </nav>
+</header>
+
+<input id="search" class="search" placeholder="Yazılarda ara… (örn: ESG, karbon, döngüsel ekonomi)">
+
+<article class="card post-item">
+  <h2 class="post-title"><a href="/posts/surdurulebilirlik-nedir-baslangic-rehberi.html">Sürdürülebilirlik Nedir? Başlangıç Rehberi</a></h2>
+  <div class="post-meta">2025-08-27 · <span class="category">Temel Bilgiler</span></div>
+  <p>Sürdürülebilirlik kavramını sade bir dille, günlük hayattan örneklerle anlatan başlangıç rehberi.</p>
+  <p><a class="btn" href="/posts/surdurulebilirlik-nedir-baslangic-rehberi.html">Devamını oku →</a></p>
+</article>
+
+<article class="card post-item">
+  <h2 class="post-title"><a href="/posts/esg-raporlama-icin-pratik-kilavuz.html">ESG Raporlama İçin Pratik Kılavuz</a></h2>
+  <div class="post-meta">2025-08-27 · <span class="category">ESG</span> <span class="category">Raporlama</span></div>
+  <p>GRI/ESRS mantığını hızlıca kavramak ve ilk ESG raporunu hazırlamak için pratik adımlar.</p>
+  <p><a class="btn" href="/posts/esg-raporlama-icin-pratik-kilavuz.html">Devamını oku →</a></p>
+</article>
+
+<footer class="footer">
+  © 2025 · Sürdürülebilirlik Blogu
+</footer>
+</div>
+<script src="/assets/script.js"></script>
+</body>
+</html>

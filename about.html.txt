@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="tr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Hakkımda · Sürdürülebilirlik Blogu</title>
+  <meta name="description" content="Kısaca ben ve vizyonum.">
+  <link rel="stylesheet" href="/assets/styles.css">
+</head>
+<body>
+<div class="container">
+<header class="header">
+  <div class="brand"><a href="/">Sürdürülebilirlik Blogu</a></div>
+  <nav class="nav">
+    <a href="/">Blog</a>
+    <a href="/about.html">Hakkımda</a>
+    <button id="themeToggle" class="theme-toggle">🌓 Tema</button>
+  </nav>
+</header>
+
+<article class="card">
+  <h1 class="post-title">Merhaba, ben...</h1>
+  <p>Sürdürülebilirlik ve ESG alanında çalışan bir danışmanım. Bu blogda pratik, anlaşılır ve uygulanabilir içerikler paylaşıyorum.</p>
+  <h2>Neler Yapıyorum?</h2>
+  <ul>
+    <li>ESG ve sürdürülebilirlik raporlaması</li>
+    <li>Karbon ayak izi analizi ve azaltım planları</li>
+    <li>Döngüsel ekonomi stratejileri</li>
+    <li>Eğitim ve atölyeler</li>
+  </ul>
+  <p>İletişim: <a href="mailto:beyzanuryigit96@icloud.com">beyzanuryigit96@icloud.com</a></p>
+</article>
+
+<footer class="footer">
+  © 2025 · Sürdürülebilirlik Blogu
+</footer>
+</div>
+<script src="/assets/script.js"></script>
+</body>
+</html>
