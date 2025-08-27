@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="tr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Sayfa Bulunamadı · Sürdürülebilirlik Blogu</title>
+  <meta name="description" content="Aradığınız sayfa bulunamadı.">
+  <link rel="stylesheet" href="/assets/styles.css">
+</head>
+<body>
+<div class="container">
+<header class="header">
+  <div class="brand"><a href="/">Sürdürülebilirlik Blogu</a></div>
+  <nav class="nav">
+    <a href="/">Blog</a>
+    <a href="/about.html">Hakkımda</a>
+    <button id="themeToggle" class="theme-toggle">🌓 Tema</button>
+  </nav>
+</header>
+
+<article class="card">
+  <h1>404</h1>
+  <p>Aradığınız sayfa bulunamadı.</p>
+  <p><a class="btn" href="/">← Ana sayfaya dön</a></p>
+</article>
+
+<footer class="footer">© 2025 · Sürdürülebilirlik Blogu</footer>
+</div>
+<script src="/assets/script.js"></script>
+</body>
+</html>

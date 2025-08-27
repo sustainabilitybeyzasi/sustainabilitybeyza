@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="tr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>ESG Raporlama İçin Pratik Kılavuz · Sürdürülebilirlik Blogu</title>
+  <meta name="description" content="GRI/ESRS mantığını hızlıca kavramak ve ilk ESG raporunu hazırlamak için pratik adımlar.">
+  <link rel="stylesheet" href="/assets/styles.css">
+</head>
+<body>
+<div class="container">
+<header class="header">
+  <div class="brand"><a href="/">Sürdürülebilirlik Blogu</a></div>
+  <nav class="nav">
+    <a href="/">Blog</a>
+    <a href="/about.html">Hakkımda</a>
+    <button id="themeToggle" class="theme-toggle">🌓 Tema</button>
+  </nav>
+</header>
+
+<article class="card">
+  <h1 class="post-title">ESG Raporlama İçin Pratik Kılavuz</h1>
+  <div class="post-meta">2025-08-27 · <span class="category">ESG</span> <span class="category">Raporlama</span></div>
+
+  <p>ESG raporlama; <strong>önemlilik analizi</strong>, <strong>gösterge seçimi</strong>, <strong>veri yönetişimi</strong> ve <strong>denetim</strong> adımlarından oluşur.</p>
+
+  <h2>Hızlı Yol Haritası</h2>
+  <ol>
+    <li>Paydaş haritalama ve çift önemlilik matrisi.</li>
+    <li>Ölçüm metrikleri: GHG Protokol (Scope 1-2-3), su, atık.</li>
+    <li>Veri toplama takvimi ve sorumlular.</li>
+    <li>GRI/ESRS referans tablosu ve içerik endeksi.</li>
+  </ol>
+
+  <p>Raporun dijital özetini blog yazısı olarak yayınlayın; şeffaflık güven yaratır.</p>
+
+  <hr>
+  <p><a class="btn" href="/">← Tüm yazılar</a></p>
+</article>
+
+<footer class="footer">
+  © 2025 · Sürdürülebilirlik Blogu
+</footer>
+</div>
+<script src="/assets/script.js"></script>
+</body>
+</html>

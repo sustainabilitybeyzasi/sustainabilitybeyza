@@ -1,0 +1,54 @@
+<!doctype html>
+<html lang="tr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Sürdürülebilirlik Nedir? Başlangıç Rehberi · Sürdürülebilirlik Blogu</title>
+  <meta name="description" content="Sürdürülebilirlik kavramını sade bir dille, günlük hayattan örneklerle anlatan başlangıç rehberi.">
+  <link rel="stylesheet" href="/assets/styles.css">
+</head>
+<body>
+<div class="container">
+<header class="header">
+  <div class="brand"><a href="/">Sürdürülebilirlik Blogu</a></div>
+  <nav class="nav">
+    <a href="/">Blog</a>
+    <a href="/about.html">Hakkımda</a>
+    <button id="themeToggle" class="theme-toggle">🌓 Tema</button>
+  </nav>
+</header>
+
+<article class="card">
+  <h1 class="post-title">Sürdürülebilirlik Nedir? Başlangıç Rehberi</h1>
+  <div class="post-meta">2025-08-27 · <span class="category">Temel Bilgiler</span></div>
+
+  <p>Sürdürülebilirlik; çevresel, sosyal ve yönetişim (ESG) boyutlarını birlikte ele alan, uzun vadeli değer üretmeyi amaçlayan bir çerçevedir. Bu rehberde temel kavramları örneklerle ele alıyoruz.</p>
+
+  <h2>Neden Önemli?</h2>
+  <ul>
+    <li>İklim riskleri tedarik zincirlerini etkiliyor.</li>
+    <li>Müşteriler ve yatırımcılar şeffaflık istiyor.</li>
+    <li>Mevzuatlar giderek sıkılaşıyor.</li>
+  </ul>
+
+  <h2>İşletmeler Nereden Başlamalı?</h2>
+  <ol>
+    <li>Mevcut durum analizi (karbon, su, atık).</li>
+    <li>Önceliklendirme ve hedef belirleme (ör. SBTi uyumlu hedefler).</li>
+    <li>Uygulama planı ve raporlama (GRI/ESRS uyumlu).</li>
+  </ol>
+
+  <blockquote>Basit başla, hızlı öğren, sürekli iyileştir.</blockquote>
+  <p><em>İpucu:</em> Küçük KPI’lar belirleyin: enerji yoğunluğu, geri dönüşüm oranı, tedarikçi taraması gibi.</p>
+
+  <hr>
+  <p><a class="btn" href="/">← Tüm yazılar</a></p>
+</article>
+
+<footer class="footer">
+  © 2025 · Sürdürülebilirlik Blogu
+</footer>
+</div>
+<script src="/assets/script.js"></script>
+</body>
+</html>

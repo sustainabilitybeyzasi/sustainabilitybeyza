@@ -1,0 +1,20 @@
+(function(){
+  const toggle = document.querySelector('#themeToggle');
+  const prefer = localStorage.getItem('theme');
+  if(prefer==='dark'){document.documentElement.classList.add('dark')}
+  toggle && toggle.addEventListener('click', function(){
+    const cur = document.documentElement.classList.toggle('dark');
+    const theme = cur ? 'dark':'light';
+    localStorage.setItem('theme', theme);
+  });
+  const s = document.querySelector('#search');
+  if(s){
+    s.addEventListener('input', function(){
+      const q = this.value.toLowerCase();
+      document.querySelectorAll('.post-item').forEach(function(el){
+        const text = el.innerText.toLowerCase();
+        el.style.display = text.includes(q) ? '' : 'none';
+      });
+    });
+  }
+})();
